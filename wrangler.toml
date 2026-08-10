@@ -1,5 +1,4 @@
-# wrangler.toml
-name = 'plain-band-f525'
+name = "edcloudwasm"
 main = "_worker.js"  # 你的 JS 逻辑代码
 compatibility_date = "2026-08-07"
 minify = true
