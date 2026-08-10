@@ -1,4 +1,4 @@
-name = "edcloudwasm"
+name = "red-king-2c9e"
 main = "_worker.js"  # 你的 JS 逻辑代码
 compatibility_date = "2026-08-07"
 minify = true
@@ -6,7 +6,7 @@ minify = true
 # --- worker环境变量配置 ---
 [vars]
 # VLESS 的 UUID
-UUID = "59065b7e-a491-46fa-afff-ac922aa90ea0"
+UUID = "9dd84299-6c15-4260-bc9d-b42f93d02078"
 # Trojan 的密码
 PASSWORD = "666"
 # SS使用aes128gcm加密的密码
